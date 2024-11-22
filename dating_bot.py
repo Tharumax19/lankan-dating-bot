@@ -12,7 +12,7 @@ import logging
 nest_asyncio.apply()
 
 # Replace this with your actual bot token
-TOKEN = '7763648149:AAFRx7q_IC1-J5MKIvZokurV1sTzT5jOUIs'
+TOKEN = ''
 
 # Store user data in memory (in real applications, use a database)
 user_data = {}
